@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/sneha-swarnakar-079196330" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubham Saha" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/tech_byte67/" target="_blank">
+<a href="https://www.instagram.com/tech_crew67/?utm_source=qr&r=nametag" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coding_crew77" height="30" width="40" />
 </a>
 
