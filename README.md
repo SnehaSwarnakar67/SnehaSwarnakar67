@@ -1,3 +1,20 @@
+![banner](https://github.com/user-attachments/assets/457a0266-9571-49f1-bcfb-9ea1fb0831f6)
+
+
+# 💫 Hi 👋, I'm Sneha Swarnakar
+**A passionate Computer Science Engineer|| FullStack Developer || UI/UX Engineer**
+
+Email Me 👉 ✉️ **snehaswarnakar67@gmail.com** 😊😊
+
+- 🔭 **I’m currently working on:** Some Software Base Projects.
+- 🌱 **I’m currently learning:** B.Tech CSE At Siliguri Institute of Technology
+- 
+- 👯 **I’m looking to collaborate on:** Web Development and App Development
+- 🤔 **I’m looking for help with:** AI Automation Specialist & Proffesional IOS App Developer
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** snehaswarnakar67@gmail.com
+- 😄 **Pronouns:** Sneha ma'am
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 
